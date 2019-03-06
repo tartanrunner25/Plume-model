@@ -7,4 +7,4 @@ Refer to the user guide document (WRF compatible Freitas Model User Guide.pdf) p
 Due to file size constraints, this data must be housed on our our local server.
 
 
-Freitas model v2.0 BETA
+Freitas model v2.0 BETA (updated on March 6th 2019 by DVM)
